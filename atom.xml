@@ -2,18 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujianquan.github.io</id>
     <title>拉紧时间的尾巴</title>
-    <updated>2019-12-18T15:27:05.727Z</updated>
+    <updated>2019-12-18T15:47:45.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujianquan.github.io"/>
     <link rel="self" href="https://xujianquan.github.io/atom.xml"/>
+    <subtitle>&lt;p style=&quot;width:100%;border-top:1px solid red;&quot;&gt;&amp;nbsp;&lt;/p&gt;</subtitle>
     <logo>https://xujianquan.github.io/images/avatar.png</logo>
     <icon>https://xujianquan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 拉紧时间的尾巴</rights>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://xujianquan.github.io/post/about</id>
+        <link href="https://xujianquan.github.io/post/about">
+        </link>
+        <updated>2019-12-18T15:43:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[归档]]></title>
+        <id>https://xujianquan.github.io/post/archives</id>
+        <link href="https://xujianquan.github.io/post/archives">
+        </link>
+        <updated>2019-12-18T15:41:46.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单页文章]]></title>
         <id>https://xujianquan.github.io/post/dan-ye-wen-zhang</id>
         <link href="https://xujianquan.github.io/post/dan-ye-wen-zhang">
         </link>
         <updated>2019-12-18T09:27:39.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E7%AC%AC%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95">第一级目录</a>
+<ul>
+<li><a href="#%E7%AC%AC%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95">第二级目录</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="第一级目录">第一级目录</h1>
+<p>对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<h2 id="第二级目录">第二级目录</h2>
+<p>对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+对于想要在网上有自己的一个博客网站的人来说，常用的有 Wordpress、Typecho 这些免费搭建工具。但是对一些小白来说，需要接触到域名、空间购买、数据库设置这些，还是有些难度的。在前段时间，偶然在网上发现了这个Gridea工具。</p>
+<p>Gridea 是 一个基于Github Pages 和 Coding Page 静态博客管理工具。我被它简洁清新的界面所吸引，于是先将博客迁移到 Github上，但是由于 Github 服务器在国外的原因，国内访问还是有点慢的，于是又将博客迁移到了 Coding Page 上，下面介绍一下搭建的过程。</p>
+<p>来源：简书<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+]]></content>
     </entry>
 </feed>
